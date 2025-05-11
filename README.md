@@ -8,3 +8,4 @@
 
 # challenge 1-b:
 - The scope for **challenge1- b** is to return the most frequent number in the array if there is duplicate and return the first element if there is no duplicate
+![image alt](https://github.com/OmarAmjad310/challenges-and-dataStucture/blob/main/cha-2-b.png?raw=true)
