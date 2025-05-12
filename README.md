@@ -1,6 +1,6 @@
 # challenges-and-dataStucture
 
-# Challenge Name : The white-board challenge
+# Challenge Name : The White-board challenge
 
 # challenge 1 - a:
 - The scope for the **challenge1-a** is to build a function that can reverse the array given without using bulti-in function.
