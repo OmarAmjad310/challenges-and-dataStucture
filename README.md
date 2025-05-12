@@ -1,4 +1,4 @@
-# challenges-and-dataStucture
+# Challenges-and-DataStucture
 
 # Challenge Name : The White-board challenge
 
