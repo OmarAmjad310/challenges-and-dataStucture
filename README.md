@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # challenges-and-dataStucture
 
 # Challenge Name : The white-board challenge
@@ -9,7 +9,7 @@
 
 # challenge 1-b:
 - The scope for **challenge1- b** is to return the most frequent number in the array if there is duplicate and return the first element if there is no duplicate
-=======
+  
 # Challenges-and-DataStucture
 # Challenge Name : The White-board challenge
 
@@ -22,4 +22,4 @@
 - The scope for **challenge1- b** is to return the most frequent number in the array if there is duplicate and return the first element if there is no duplicate.
 
 [link](cha-2-b.png)
->>>>>>> 9f63687a4d886ed422492cdd1987fdcec2029c41
+
