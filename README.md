@@ -2,7 +2,7 @@
 # Challenge Name : The White-board challenge
 
 # challenge 1 - a:
-- The scope for the **challenge1-a** is to build a function that can reverse the array given without using bulti-in function.
+- The scope for the **challenge1-a** is to build a function that can reverse the array given without using built-in function.
   
 [link](cha1-a.png)
 
